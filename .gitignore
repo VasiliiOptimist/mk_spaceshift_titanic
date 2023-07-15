@@ -1,0 +1,10 @@
+test.csv
+train.csv
+data_description.txt
+sample_submission.csv
+model_results.log
+submission.csv
+/__pycache__
+
+.vscode/
+.python-version
