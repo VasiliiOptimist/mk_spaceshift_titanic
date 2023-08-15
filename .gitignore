@@ -5,6 +5,7 @@ sample_submission.csv
 model_results.log
 submission.csv
 /__pycache__
+/catboost_info
 
 .vscode/
 .python-version
